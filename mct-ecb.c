@@ -1,3 +1,5 @@
+/* The Monte Carlo Test (ECB) for testing the AES implementation algorithm. */
+
 #include <stdio.h>
 #include "enc.h"
 
